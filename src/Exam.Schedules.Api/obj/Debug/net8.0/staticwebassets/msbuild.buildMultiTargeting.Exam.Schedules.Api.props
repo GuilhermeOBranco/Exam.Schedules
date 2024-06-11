@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/Exam.Schedules.Api.props" />
+</Project>

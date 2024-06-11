@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Exam.Schedules.Service/1.0.0": {
+        "runtime": {
+          "Exam.Schedules.Service.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Exam.Schedules.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

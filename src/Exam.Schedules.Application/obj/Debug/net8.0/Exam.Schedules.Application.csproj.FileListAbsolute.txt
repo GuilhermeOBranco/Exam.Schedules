@@ -1,0 +1,15 @@
+/home/guilherme/Projects/Exam.Schedules/Exam.Schedules.Application/bin/Debug/net8.0/Exam.Schedules.Application.deps.json
+/home/guilherme/Projects/Exam.Schedules/Exam.Schedules.Application/bin/Debug/net8.0/Exam.Schedules.Application.dll
+/home/guilherme/Projects/Exam.Schedules/Exam.Schedules.Application/bin/Debug/net8.0/Exam.Schedules.Application.pdb
+/home/guilherme/Projects/Exam.Schedules/Exam.Schedules.Application/bin/Debug/net8.0/Exam.Schedules.Domain.dll
+/home/guilherme/Projects/Exam.Schedules/Exam.Schedules.Application/bin/Debug/net8.0/Exam.Schedules.Domain.pdb
+/home/guilherme/Projects/Exam.Schedules/Exam.Schedules.Application/obj/Debug/net8.0/Exam.Schedules.Application.csproj.AssemblyReference.cache
+/home/guilherme/Projects/Exam.Schedules/Exam.Schedules.Application/obj/Debug/net8.0/Exam.Schedules.Application.GeneratedMSBuildEditorConfig.editorconfig
+/home/guilherme/Projects/Exam.Schedules/Exam.Schedules.Application/obj/Debug/net8.0/Exam.Schedules.Application.AssemblyInfoInputs.cache
+/home/guilherme/Projects/Exam.Schedules/Exam.Schedules.Application/obj/Debug/net8.0/Exam.Schedules.Application.AssemblyInfo.cs
+/home/guilherme/Projects/Exam.Schedules/Exam.Schedules.Application/obj/Debug/net8.0/Exam.Schedules.Application.csproj.CoreCompileInputs.cache
+/home/guilherme/Projects/Exam.Schedules/Exam.Schedules.Application/obj/Debug/net8.0/Exam.Sch.850D499F.Up2Date
+/home/guilherme/Projects/Exam.Schedules/Exam.Schedules.Application/obj/Debug/net8.0/Exam.Schedules.Application.dll
+/home/guilherme/Projects/Exam.Schedules/Exam.Schedules.Application/obj/Debug/net8.0/refint/Exam.Schedules.Application.dll
+/home/guilherme/Projects/Exam.Schedules/Exam.Schedules.Application/obj/Debug/net8.0/Exam.Schedules.Application.pdb
+/home/guilherme/Projects/Exam.Schedules/Exam.Schedules.Application/obj/Debug/net8.0/ref/Exam.Schedules.Application.dll
