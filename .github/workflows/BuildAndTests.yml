@@ -1,6 +1,8 @@
 name: dotnet package
 
-on: [push]
+on: 
+  push:
+    branches: ['feature/*']
 
 jobs:
     build:
@@ -13,9 +15,15 @@ jobs:
         steps:
             - uses: actions/checkout@v4
             - name: Setup dotent &{{ matrix.dotnet-version }}
-              uses: actions/setup-dotent@v3
+              uses: actions/setup-dotnet@v3
               with:
                 dotnet-version: ${{matrix.dotnet-version}}
             - name: Display dotnet version
               run: dotnet --version
-              
+
+            - name: Install dependencies
+              run: dotnet restore
+            
+            - name: Dotnet run test
+              run: dotnet test ./tests/Exam.Schedules.Tests/
+
