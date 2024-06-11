@@ -12,6 +12,7 @@ namespace Exam.Schedules.Domain.Entities
 
         public Patient(string name)
         {
+            PatientId = Guid.NewGuid();
             Name = name;
         }
     }

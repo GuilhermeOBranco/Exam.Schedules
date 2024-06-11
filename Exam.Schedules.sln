@@ -11,6 +11,10 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Exam.Schedules.Api", "Exam.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam.Schedules.Tests", "Exam.Schedules.Tests\Exam.Schedules.Tests.csproj", "{B7EF3ABD-3795-47DA-A412-45E32EAA54DA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam.Schedule.Infrastructure", "Exam.Schedule.Infrastructure\Exam.Schedule.Infrastructure.csproj", "{DCAD7B7C-6EEC-48EB-BE3B-96B6B13FAEE1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exam.Schedules.Application", "Exam.Schedules.Application\Exam.Schedules.Application.csproj", "{0EA0E72F-C106-427C-9625-8C16686BB630}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{B7EF3ABD-3795-47DA-A412-45E32EAA54DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7EF3ABD-3795-47DA-A412-45E32EAA54DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7EF3ABD-3795-47DA-A412-45E32EAA54DA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DCAD7B7C-6EEC-48EB-BE3B-96B6B13FAEE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DCAD7B7C-6EEC-48EB-BE3B-96B6B13FAEE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DCAD7B7C-6EEC-48EB-BE3B-96B6B13FAEE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DCAD7B7C-6EEC-48EB-BE3B-96B6B13FAEE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA0E72F-C106-427C-9625-8C16686BB630}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA0E72F-C106-427C-9625-8C16686BB630}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA0E72F-C106-427C-9625-8C16686BB630}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA0E72F-C106-427C-9625-8C16686BB630}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

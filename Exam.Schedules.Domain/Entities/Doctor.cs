@@ -12,6 +12,7 @@ namespace Exam.Schedules.Domain.Entities
         public string Name { get; private set; }
         public Doctor(string name)
         {
+            DoctorId = Guid.NewGuid();
             Name = name;
         }
     }
